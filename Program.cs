@@ -11,8 +11,11 @@ WriteLine();
 
 
 
+
+
+
 WriteLine();
-WriteLine ("Вторая задача. ан массив из него нужно получить другой массив [“1234”, “1567”, “-2”, “computer science”] → [“-2”] ");
+WriteLine ("Вторая задача. Дан массив из него нужно получить другой массив [“1234”, “1567”, “-2”, “computer science”] → [“-2”] ");
 string [] array1= {"1234", "1567", "-2", "computer science"};
 WriteLine();
 WriteLine();
