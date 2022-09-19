@@ -22,3 +22,18 @@ WriteLine();
 WriteLine($"[ “{array1[2]}” ]");
 WriteLine();
 WriteLine();
+
+
+
+
+
+WriteLine();
+WriteLine ("Третья задача. Дан массив из него нужно получить другой массив [“Russia”, “Denmark”, “Kazan”] → []");
+WriteLine();
+string [] array3={"Russia", "Denimark", "Kazan"};
+string [] b={""};
+if (array3.Length>b.Length)
+{
+    
+    WriteLine($"[{b[0]}]");
+}
